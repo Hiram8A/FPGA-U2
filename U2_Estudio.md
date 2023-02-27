@@ -61,8 +61,7 @@ timescale (Para simulacion)
 
 always es equiparable a process
 
-
-![[pic.png]]
+![Diagrama](https://raw.githubusercontent.com/Hiram8A/FPGA-U2/main/pic.png)
 
 Concurrentes (fuera del processs)
 (Multiplexeo de tareas)
